@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Campa 👋
 
-<!--
-**K4mp47/K4mp47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated developer with a self-made foundation in design principles and framework trends. Currently pursuing a **Bachelor's degree in Data Science** at Ca' Foscari University of Venice.  
 
-Here are some ideas to get you started:
+I’m deeply committed to delivering efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Interests
+- Web & mobile development  
+- Data analysis & visualization  
+- Frameworks & design trends  
+
+## 🚀 Projects
+I work on projects that combine **practical functionality** with **clean design**, from web apps to data-driven tools. Take a look to my public repositories.
+
+Always excited to collaborate and create software!!
